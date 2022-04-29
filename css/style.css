@@ -352,7 +352,7 @@ img{
 
 .bannerSection{
    
-    background: url(https://github.com/Noor-e-Moriom/The-Ruckus/blob/masterbranch/bg.png) no-repeat center center;
+    background: url(/Image/bg.png) no-repeat center center;
     
    
 
@@ -1183,10 +1183,12 @@ img{
     cursor: pointer;
 }
 .footer-icon{
+ 
     justify-content: end;
     width: 32%;
 }
 .footer-icon a {
+   
     display: inline-block;
     
     color: #666;
@@ -1220,4 +1222,63 @@ img{
     font-size: 12px;
 }
 
+
+
+/* fixed-item */
+.fixed-item{
+   position: relative;
+   z-index:9999 ;
+}
+.fixed-item .fixed-icon {
+    position: fixed;
+    top: 24%;
+    left: 0;
+  
+}
+.fixed-icon a {
+  
+    text-align: center;
+    display: block;
+    color: #FF8300;
+    box-shadow: #c96e0e 3px 5px 14px;
+   
+    margin: 25px 0;
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 25px;
+    background-color: transparent;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    transition: 0.7s;
+    cursor: pointer;
+    opacity: 1;
+   
+}
+
+.fixed-icon a:hover{
+
+    background-color: #2B81E5;
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+ 
+  
+  
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+   
     
