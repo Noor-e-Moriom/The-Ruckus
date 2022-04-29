@@ -257,49 +257,11 @@ img{
     transition: 0.5s;
 
 }
-.menu li a:hover:after{ */
-    /* background-color:rgb(226,152,72,0.7); */
-   
-    /* font-weight: bold;
-    width: 100%;
-    visibility: visible;
-    opacity: 1;
-}
-.menu li a:hover{
-    color: #c96e0e;
-    border-left:1px solid #EDA556;
-    box-shadow: 2px 1px 5px black;
-}
-.menu li:hover:first-child a{
-    border-left: none;
-} */
-/* Dropdownd */
-/* .menu li{
-    position: relative;
-}
-.menu li ul {
-    position: absolute;
-    width: 204px;
-    padding: 10px 0;
-    
-    box-shadow: 1px 5px 6px #FF8300;
-    display: inline-block;
-    top: 150%;
-    left: 0;
-    visibility: visible;
-}
-.menu li:hover ul{
-   
-} 
-.menu li ul a{
-    border: none;
 
-}
-.menu li ul a:hover{
-    color: #c96e0e;
-    border:none;
-    box-shadow:none;
-} */
+   
+  
+
+
 
 .headerLogo {
     width: 25%;
