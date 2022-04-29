@@ -314,7 +314,7 @@ img{
 
 .bannerSection{
    
-    background: url(https://ibb.co/2qHjS4B) no-repeat center center;
+    background: url(/https://ibb.co/2qHjS4B) no-repeat center center;
     
    
 
@@ -360,7 +360,7 @@ img{
 /* aboutPArt */
 
 .aboutPart{
-    background: url(https://ibb.co/VMpLKNy) no-repeat center left;
+    background: url(/https://ibb.co/VMpLKNy) no-repeat center left;
     background-size: contain;
     padding: 50px 0;
    transition: 0.5s;
