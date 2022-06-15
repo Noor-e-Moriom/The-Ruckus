@@ -1256,18 +1256,42 @@ img{
    
 }
 
-.fixed-icon a:hover{
+.fixed-icon a.fb:hover{
 
-    background-color: #2B81E5;
+    background-color: #1194F5;
     color: #fff;
     transform: scale(1.4);
     cursor: pointer;
- 
-  
-  
-   
-   
 }
+.fixed-icon a.tw:hover{
+
+    background-color: #5ce9f3;
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+}
+.fixed-icon a.ln:hover{
+
+    background-color: #0A66C2;
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+}
+.fixed-icon a.insta:hover{
+
+    background-color: #B930AF;
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+}
+.fixed-icon a.ytb:hover{
+
+    background-color: #f53030;
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+}
+
 
 
 
